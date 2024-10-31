@@ -1,0 +1,59 @@
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\guy-api.exe
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\guy-api.deps.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\guy-api.runtimeconfig.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\guy-api.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\guy-api.pdb
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\scopedcss\bundle\guy-api.styles.css
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.CopyComplete
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\refint\guy-api.dll
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.pdb
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\guy-api.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודי תכנות יעלי שנה ב\net core\פרויקט נהול תווך דירות\guy-api\guy-api\obj\Debug\net6.0\ref\guy-api.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\appsettings.Development.json
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\appsettings.json
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\guy-api.exe
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\guy-api.deps.json
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\guy-api.runtimeconfig.json
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\guy-api.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\guy-api.pdb
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.AssemblyReference.cache
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.AssemblyInfoInputs.cache
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.AssemblyInfo.cs
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.CoreCompileInputs.cache
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\scopedcss\bundle\guy-api.styles.css
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\refint\guy-api.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.pdb
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.genruntimeconfig.cache
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\ref\guy-api.dll
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets\msbuild.guy-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets\msbuild.build.guy-api.props
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.guy-api.props
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.guy-api.props
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\פרויקט מכון כושר\guy-api\guy-api\obj\Debug\net6.0\guy-api.csproj.Up2Date

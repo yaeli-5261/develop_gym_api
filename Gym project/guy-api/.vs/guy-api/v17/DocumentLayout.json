@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\entities\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\entities\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\LessonController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.271Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "guy-api\\Entities\\Client.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Client.cs",
+              "RelativeToolTip": "guy-api\\Entities\\Client.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:54:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Program.cs",
+              "RelativeDocumentMoniker": "guy-api\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Program.cs",
+              "RelativeToolTip": "guy-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:48:36.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Data.cs",
+              "RelativeDocumentMoniker": "guy-api\\Entities\\Data.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Data.cs",
+              "RelativeToolTip": "guy-api\\Entities\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "guy-api\\Entities\\Lesson.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Lesson.cs",
+              "RelativeToolTip": "guy-api\\Entities\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "guy-api\\Entities\\Trainer.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Entities\\Trainer.cs",
+              "RelativeToolTip": "guy-api\\Entities\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\TrainerController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05DB\u05D5\u05DF \u05DB\u05D5\u05E9\u05E8\\guy-api\\guy-api\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
