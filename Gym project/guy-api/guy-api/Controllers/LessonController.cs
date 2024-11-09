@@ -12,22 +12,22 @@ namespace guy_api.Controllers
     {
         // GET: api/<LessonController>
         [HttpGet]
-        public ActionResult<List<Lesson>> Get()
+        public ActionResult Get()
         {
             return Ok(Data.ListLesson);
         }
 
         // GET api/<LessonController>/5
         [HttpGet("{day}")]
-        public ActionResult<List<Lesson>> Get(Weekday day)
+        public ActionResult Get(Weekday day)
         {
-            return Data.ListLesson.Where(l => l.Day == day).ToList();
+            return Ok( Data.ListLesson.Where(l => l.Day == day).ToList());
          
         }
         [HttpGet("{day}/{typesOfFitness}")]
-        public ActionResult<List<Lesson>> Get(Weekday day, EnumTypeOfFitness typesOfFitness)
+        public ActionResult Get(Weekday day, EnumTypeOfFitness typesOfFitness)
         {
-            return Data.ListLesson.Where(l => l.Day == day && l.Type == typesOfFitness).ToList();
+            return Ok(Data.ListLesson.Where(l => l.Day == day && l.Type == typesOfFitness).ToList());
         }
         // POST api/<LessonController>
         [HttpPost]

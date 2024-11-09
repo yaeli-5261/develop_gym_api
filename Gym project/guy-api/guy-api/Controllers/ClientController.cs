@@ -11,14 +11,14 @@ namespace guy_api.Controllers
     {
         // GET: api/<ClientController>
         [HttpGet]
-        public ActionResult<List<Client>> Get()
+        public ActionResult Get()
         {
             return Ok(Data.ListClient);
         }
 
         // GET api/<ClientController>/5
         [HttpGet("{id}")]
-        public ActionResult<Client> Get(string id)
+        public ActionResult Get(string id)
         {
 
             foreach (var client in Data.ListClient)

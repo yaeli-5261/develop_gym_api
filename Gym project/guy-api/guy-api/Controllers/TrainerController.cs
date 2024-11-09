@@ -13,13 +13,13 @@ namespace guy_api.Controllers
         // GET: api/<TrainerController>
         [HttpGet]
        
-        public ActionResult<List<Trainer>> Get()
+        public ActionResult Get()
         {
             return Ok(Data.ListTrainer);
         }
         // GET api/<TrainerController>/5
         [HttpGet("{id}")]
-        public ActionResult <Trainer> Get(string id)
+        public ActionResult Get(string id)
         {
             foreach(var trainer in Data.ListTrainer)
             {
