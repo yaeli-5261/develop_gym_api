@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj": {}
+    "Y:\\Groups\\Group_1\\נעמן יעל\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj": {
+    "Y:\\Groups\\Group_1\\נעמן יעל\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj",
+        "projectUniqueName": "Y:\\Groups\\Group_1\\נעמן יעל\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj",
         "projectName": "guy-api",
-        "projectPath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\obj\\",
+        "projectPath": "Y:\\Groups\\Group_1\\נעמן יעל\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj",
+        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+        "outputPath": "Y:\\Groups\\Group_1\\נעמן יעל\\GitHub\\Gym project\\guy-api\\guy-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

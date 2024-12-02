@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gym.Data/1.0.0": {
+        "dependencies": {
+          "Gym.Core": "1.0.0"
+        },
+        "runtime": {
+          "Gym.Data.dll": {}
+        }
+      },
+      "Gym.Core/1.0.0": {
+        "runtime": {
+          "Gym.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gym.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gym.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

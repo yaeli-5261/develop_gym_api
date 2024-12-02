@@ -1,5 +1,7 @@
 ﻿
-using guy_api.Entities;
+using Gym.Core.Entities;
+using Gym.Core.Interface;
+using Gym.Core.Services;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,51 +12,52 @@ namespace guy_api.Controllers
     [ApiController]
     public class LessonController : ControllerBase
     {
+        private readonly ILessonService _lessonService;
+
+        public LessonController(ILessonService lessonService)
+        {
+            _lessonService=lessonService;
+        }
+
         // GET: api/<LessonController>
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok(Data.ListLesson);
+            return Ok(_lessonService.GetAll());
         }
 
         // GET api/<LessonController>/5
         [HttpGet("{day}")]
         public ActionResult Get(Weekday day)
         {
-            return Ok( Data.ListLesson.Where(l => l.Day == day).ToList());
-         
+            return Ok(_lessonService.GetByDay(day));
         }
         [HttpGet("{day}/{typesOfFitness}")]
         public ActionResult Get(Weekday day, EnumTypeOfFitness typesOfFitness)
         {
-            return Ok(Data.ListLesson.Where(l => l.Day == day && l.Type == typesOfFitness).ToList());
+            return Ok(_lessonService.Get(day, typesOfFitness));
+           
         }
         // POST api/<LessonController>
         [HttpPost]
         public void Post(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            Data.ListLesson.Add(new Lesson(type, trainerId, target_audience, day, start, during, enumLevel));
+            _lessonService.Post(type, trainerId, target_audience, day, start, during, enumLevel);
         }
 
-        // PUT api/<LessonController>/5
+        //// PUT api/<LessonController>/5
         [HttpPut("{code}")]
-        public void Put(int code,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Put(int code, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            Lesson l = Data.ListLesson.SingleOrDefault(l => l.Code == code);
-            l.Type=type;
-            l.TrainerId = trainerId;
-            l.Target_audience = target_audience;
-            l.Day = day;
-            l.Start = start;
-            l.During = during;
-            l.EnumLevel = enumLevel;
+             _lessonService.Put( code,  type,  trainerId,  target_audience,  day,  start,  during,  enumLevel);
+           
         }
 
-        // DELETE api/<LessonController>/5
+        //// DELETE api/<LessonController>/5
         [HttpDelete("{code}")]
         public void Delete(int code)
         {
-            Data.ListLesson.Remove(Data.ListLesson.SingleOrDefault(l => l.Code == code));
+            _lessonService.Delete(code);
         }
     }
 }

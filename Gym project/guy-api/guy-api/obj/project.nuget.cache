@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbPut4zZEKvovxRoNqIwyqJAToVpqrRGEi319QILKPLCR+E0zSj1mQDvaGAgdjQlGOkgrNFCSPzNZmUnu2ia5w==",
+  "dgSpecHash": "+Jx59dmzZDvnsw4mM/sxBiteyfSYiEi7wBn49W3aWUWyB5XCKcxPqKvwpfSE9FaNTZdsinVmm0uRHRCguTab0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\guy-api\\GymAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

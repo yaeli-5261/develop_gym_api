@@ -1,18 +1,28 @@
 using guy_api.Controllers;
-using guy_api.Entities;
+using Gym.Data.Repositories;
+//using guy_api.Entities;
+//using guy_api.Interface;
+//using guy_api.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TestProject
 {
     public class EventsControllerTest
     {
+        //אין ענין בטסטים ליצור בכל פעם מופע ולכן יוצרת פעם אחת ומאתחלת בבונה
+        private readonly TrainerController _trainerController ;
+
+        public EventsControllerTest()
+        {
+            _trainerController =  new TrainerController(new DataContext());
+        }
+
         [Fact]
         public void GetById_ReturnsOk()
         {
-            var id = "1";
+            var id = "2";
 
-            var controller = new TrainerController();
-            var result = controller.Get(id);
+            var result = _trainerController.Get(id);
 
             Assert.IsType<OkObjectResult>(result);
 
@@ -21,10 +31,9 @@ namespace TestProject
         [Fact]
         public void GetById_Returns_NotFound()
         {
-            var id = "-1";
+            var id = "81";
 
-            var controller = new TrainerController();
-            var result = controller.Get(id);
+            var result = _trainerController.Get(id);
 
             Assert.IsType<NotFoundObjectResult>(result);
 
@@ -32,11 +41,9 @@ namespace TestProject
         [Fact]
         public void GetAll_Returns_ListsTrainner()
         {
-            var controller = new TrainerController();
-            var result = controller.Get();
+            var result = _trainerController.Get();
 
             Assert.IsType<OkObjectResult>(result);
-
         }
     }
 

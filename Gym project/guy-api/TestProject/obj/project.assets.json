@@ -1888,17 +1888,56 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "guy-api/1.0.0": {
+      "Gym.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Gym.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Gym.Core.dll": {}
+        }
+      },
+      "Gym.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Gym.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Gym.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Gym.Data.dll": {}
+        }
+      },
+      "Gym.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Gym.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Gym.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Gym.Service.dll": {}
+        }
+      },
+      "GymAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Gym.Core": "1.0.0",
+          "Gym.Data": "1.0.0",
+          "Gym.Service": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "compile": {
-          "bin/placeholder/guy-api.dll": {}
+          "bin/placeholder/GymAPI.dll": {}
         },
         "runtime": {
-          "bin/placeholder/guy-api.dll": {}
+          "bin/placeholder/GymAPI.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -6325,17 +6364,32 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "guy-api/1.0.0": {
+    "Gym.Core/1.0.0": {
       "type": "project",
-      "path": "../guy-api/guy-api.csproj",
-      "msbuildProject": "../guy-api/guy-api.csproj"
+      "path": "../Gym.Core/Gym.Core.csproj",
+      "msbuildProject": "../Gym.Core/Gym.Core.csproj"
+    },
+    "Gym.Data/1.0.0": {
+      "type": "project",
+      "path": "../Gym.Data/Gym.Data.csproj",
+      "msbuildProject": "../Gym.Data/Gym.Data.csproj"
+    },
+    "Gym.Service/1.0.0": {
+      "type": "project",
+      "path": "../Gym.Service/Gym.Service.csproj",
+      "msbuildProject": "../Gym.Service/Gym.Service.csproj"
+    },
+    "GymAPI/1.0.0": {
+      "type": "project",
+      "path": "../guy-api/GymAPI.csproj",
+      "msbuildProject": "../guy-api/GymAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GymAPI >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "coverlet.collector >= 3.1.2",
-      "guy-api >= 1.0.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -6347,11 +6401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6373,8 +6427,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\guy-api\\guy-api.csproj"
+            "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\guy-api\\GymAPI.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\guy-api\\GymAPI.csproj"
             }
           }
         }

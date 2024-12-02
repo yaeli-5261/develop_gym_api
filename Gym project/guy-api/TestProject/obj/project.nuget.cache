@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rVK8GprykIoE6mf4lQuowEnBGD7jQv7E8HkBn504APPwkncYejHt7nH69QPd6JyA39R5SRHSkwGqTi0zCQT3ag==",
+  "dgSpecHash": "58dtw9rWP/7AD9m1TH0ZNA9wWNQH6WnMwbMNLHtmq86l34KGdmadSY/8K1zEIVFrFnpU5dAoQPGQFxJHQwZmzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\GitHub\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

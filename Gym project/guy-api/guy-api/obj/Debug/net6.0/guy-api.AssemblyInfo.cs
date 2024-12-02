@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guy-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde3d6fee1515c0f98a606c683cdfb43e057524d")]
 [assembly: System.Reflection.AssemblyProductAttribute("guy-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guy-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

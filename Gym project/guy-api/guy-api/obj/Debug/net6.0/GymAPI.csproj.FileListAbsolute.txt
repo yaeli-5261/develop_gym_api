@@ -1,0 +1,72 @@
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfo.cs
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\נעמן יעל\GitHub\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.sourcelink.json
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\appsettings.Development.json
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\appsettings.json
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.exe
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.deps.json
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.runtimeconfig.json
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.pdb
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Core.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Data.dll
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Core.pdb
+F:\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Data.pdb
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.AssemblyReference.cache
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfoInputs.cache
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfo.cs
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.CoreCompileInputs.cache
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.build.json
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.development.json
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\scopedcss\bundle\GymAPI.styles.css
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.CopyComplete
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.dll
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\refint\GymAPI.dll
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.pdb
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.genruntimeconfig.cache
+F:\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\ref\GymAPI.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.exe
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.deps.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.runtimeconfig.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\GymAPI.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Core.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Data.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Service.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Core.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Data.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\bin\Debug\net6.0\Gym.Service.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.AssemblyInfo.cs
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\scopedcss\bundle\GymAPI.styles.css
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.csproj.CopyComplete
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\refint\GymAPI.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\GymAPI.genruntimeconfig.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\guy-api\obj\Debug\net6.0\ref\GymAPI.dll

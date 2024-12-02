@@ -1,4 +1,8 @@
-﻿using guy_api.Entities;
+﻿
+using Gym.Core.Entities;
+using Gym.Core.Interface;
+using Gym.Core.Services;
+using Gym.Service;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -9,59 +13,52 @@ namespace guy_api.Controllers
     [ApiController]
     public class ClientController : ControllerBase
     {
+        private readonly IClientService _clientService;
+
+        public ClientController(IClientService clientService)
+        {
+            _clientService = clientService; 
+        }
+
         // GET: api/<ClientController>
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok(Data.ListClient);
+            return Ok(_clientService.GetAll());
         }
 
-        // GET api/<ClientController>/5
+        //// GET api/<ClientController>/5
         [HttpGet("{id}")]
         public ActionResult Get(string id)
         {
-
-            foreach (var client in Data.ListClient)
-            {
-                if (client.Id == id)
-                    return Ok(client);
-            }
-            return NotFound("The id client isn'c valid");
+            return Ok(_clientService.GetById(id));
         }
 
-        // POST api/<ClientController>
+        //// POST api/<ClientController>
         [HttpPost]
         public void Post(string id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
         {
-            Data.ListClient.Add(new Client(id, firstName, lastName, gender, pel, mail, enumhealthFund));
+            _clientService.Post(id, firstName,  lastName, gender,  pel,  mail,  enumhealthFund);
+            
         }
-
-        //public void post ([FromBody]Client c)
+        //[HttpPost("{c}")]
+        //public void Post(Client c)
         //{
-        //    Data.ListClient.Add(new Client {Id=c.Id, FirstName=c.FirstName,LastName=c.LastName,Gender=c.Gender,Pel=c.Pel,Mail=c.Mail,EnumhealthFund=c.EnumhealthFund});
+        //     _clientService.Post(c);
         //}
 
-        // PUT api/<ClientController>/5
+        //// PUT api/<ClientController>/5
         [HttpPut("{id}")]
-        public void Put(string id, string firstName, string lastName, EnumGender gender ,String Pel, String Mail, EnumhealthFund enumhealthFund)
+        public void Put(string id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund)
         {
-            Client c=Data.ListClient.SingleOrDefault(c => c.Id == id);
-            if (c != null)
-            {
-                c.FirstName = firstName;
-                c.LastName = lastName;
-                c.Pel = Pel;
-                c.Mail = Mail;
-                c.EnumhealthFund = enumhealthFund;
-            }
-            else NotFound("not valid");
+            _clientService.Put(id, firstName, lastName, gender, Pel, Mail, enumhealthFund);
         }
 
         // DELETE api/<ClientController>/5
         [HttpDelete("{id}")]
         public void Delete(string id)
         {
-            Data.ListClient.Remove(Data.ListClient.SingleOrDefault(c => c.Id == id));
+            _clientService.Delete(id);
         }
     }
 }

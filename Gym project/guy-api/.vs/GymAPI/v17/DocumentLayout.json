@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.data\\repositories\\clientrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|solutionrelative:gym.data\\repositories\\clientrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\guy-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.data\\repositories\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|solutionrelative:gym.data\\repositories\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\GymAPI.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\guy-api\\gymapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\GymAPI.csproj|solutionrelative:guy-api\\gymapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\guy-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\guy-api\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB74FA-096E-4DD8-A05B-F2856AF06558}|Gym.Service\\Gym.Service.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AB74FA-096E-4DD8-A05B-F2856AF06558}|Gym.Service\\Gym.Service.csproj|solutionrelative:gym.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\guy-api\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F9D0F8-356F-4681-9768-F7D5B25A6682}|guy-api\\guy-api.csproj|solutionrelative:guy-api\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419FCFD3-A535-40C3-B1B7-D89F6B52DB7E}|Gym.Core\\Gym.Core.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.core\\interface\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419FCFD3-A535-40C3-B1B7-D89F6B52DB7E}|Gym.Core\\Gym.Core.csproj|solutionrelative:gym.core\\interface\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419FCFD3-A535-40C3-B1B7-D89F6B52DB7E}|Gym.Core\\Gym.Core.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419FCFD3-A535-40C3-B1B7-D89F6B52DB7E}|Gym.Core\\Gym.Core.csproj|solutionrelative:gym.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.data\\repositories\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|solutionrelative:gym.data\\repositories\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB74FA-096E-4DD8-A05B-F2856AF06558}|Gym.Service\\Gym.Service.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.service\\gym.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8AB74FA-096E-4DD8-A05B-F2856AF06558}|Gym.Service\\Gym.Service.csproj|solutionrelative:gym.service\\gym.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.data\\gym.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|solutionrelative:gym.data\\gym.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|y:\\groups\\group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\github\\gym project\\guy-api\\gym.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606DF1AF-8020-482E-A35F-7778100E5ECC}|Gym.Data\\Gym.Data.csproj|solutionrelative:gym.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\LessonController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.271Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepositories.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\ClientRepositories.cs",
+              "RelativeDocumentMoniker": "Gym.Data\\Repositories\\ClientRepositories.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\ClientRepositories.cs",
+              "RelativeToolTip": "Gym.Data\\Repositories\\ClientRepositories.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:40:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GymAPI",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\GymAPI.csproj",
+              "RelativeDocumentMoniker": "guy-api\\GymAPI.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\GymAPI.csproj",
+              "RelativeToolTip": "guy-api\\GymAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T10:28:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\FakeContext.cs",
+              "RelativeDocumentMoniker": "Gym.Data\\Repositories\\FakeContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\FakeContext.cs",
+              "RelativeToolTip": "Gym.Data\\Repositories\\FakeContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:48:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Core\\Interface\\IDataContext.cs",
+              "RelativeDocumentMoniker": "Gym.Core\\Interface\\IDataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Core\\Interface\\IDataContext.cs",
+              "RelativeToolTip": "Gym.Core\\Interface\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:47:27.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gym.Service",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Service\\Gym.Service.csproj",
+              "RelativeDocumentMoniker": "Gym.Service\\Gym.Service.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Service\\Gym.Service.csproj",
+              "RelativeToolTip": "Gym.Service\\Gym.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:45:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\DataContext.cs",
+              "RelativeDocumentMoniker": "Gym.Data\\Repositories\\DataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Repositories\\DataContext.cs",
+              "RelativeToolTip": "Gym.Data\\Repositories\\DataContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:44:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Gym.Core\\Entities\\Client.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Core\\Entities\\Client.cs",
+              "RelativeToolTip": "Gym.Core\\Entities\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:44:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gym.Data",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
+              "RelativeDocumentMoniker": "Gym.Data\\Gym.Data.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
+              "RelativeToolTip": "Gym.Data\\Gym.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:29:52.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Gym.Data\\Class1.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Data\\Class1.cs",
+              "RelativeToolTip": "Gym.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:18:15.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Program.cs",
+              "RelativeDocumentMoniker": "guy-api\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Program.cs",
+              "RelativeToolTip": "guy-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:48:36.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\ClientController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Gym.Service\\Class1.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\Gym.Service\\Class1.cs",
+              "RelativeToolTip": "Gym.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:18:51.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "guy-api\\Controllers\\TrainerController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05E0\u05E2\u05DE\u05DF \u05D9\u05E2\u05DC\\GitHub\\Gym project\\guy-api\\guy-api\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "guy-api\\Controllers\\TrainerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:51:45.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
