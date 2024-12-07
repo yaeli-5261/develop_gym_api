@@ -21,16 +21,16 @@ namespace Gym.Service
         {
             return _clientRepository.GetAll();
         }
-        public Client GetById(string id)
+        public Client GetById(int id)
         {
             return _clientRepository.GetById(id);
         }
 
-        public void Post(string id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
+        public void Post(int id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
         {
              _clientRepository.Post(id,  firstName,  lastName,  gender,  pel,  mail,  enumhealthFund);
         }
-        public void Put(string id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund)
+        public void Put(int id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund)
         {
             _clientRepository.Put(id, firstName, lastName, gender, Pel, Mail, enumhealthFund);
         }
@@ -38,7 +38,7 @@ namespace Gym.Service
         //{
         //    _clientRepository.post(c);
         //}
-        public void Delete(string id)
+        public void Delete(int id)
         {
             _clientRepository.Delete(id);
         }

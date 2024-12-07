@@ -29,18 +29,18 @@ namespace Gym.Service
             return _lessonRepository.Get(day, typesOfFitness);  
         }
 
-        public void Post(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Post(int id,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            _lessonRepository.Post(type, trainerId, target_audience, day, start, during, enumLevel);
+            _lessonRepository.Post(id , type, trainerId, target_audience, day, start, during, enumLevel);
         }
 
-        public void Put(int code, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Put(int id, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            _lessonRepository.Put( code,  type,  trainerId,  target_audience,  day,  start,  during,  enumLevel);
+            _lessonRepository.Put(id, type,  trainerId,  target_audience,  day,  start,  during,  enumLevel);
         }
-        public void Delete(int code)
+        public void Delete(int id)
         {
-            _lessonRepository.Delete(code);
+            _lessonRepository.Delete(id);
         }
     }
 }

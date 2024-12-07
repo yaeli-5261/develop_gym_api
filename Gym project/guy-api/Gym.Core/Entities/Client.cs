@@ -1,4 +1,7 @@
-﻿namespace Gym.Core.Entities
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Gym.Core.Entities
 {
     public enum EnumhealthFund
     {
@@ -6,21 +9,21 @@
     }
     public class Client
     {
-        private static int count = 0;
-        public int Code { get; }//primery key
-        public string Id { get; set; }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public EnumGender Gender { get; set; }
         public string Pel { get; set; }
         public string Mail { get; set; }
-        public Enum EnumhealthFund { get; set; }//קופח
+        public EnumhealthFund EnumhealthFund { get; set; }//קופח
         public bool IsActiveClient { get; set; }  //status
         public List<Lesson> ClientLesson { get; set; }//אימונים שבהם משתתף המתאמן
 
-        public Client(string id, string firstName, string lastName, EnumGender gender, string pel, string mail, Enum enumhealthFund)
+        public Client(int id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
         {
-            Code = ++count;
             Id = id;
             FirstName = firstName;
             LastName = lastName;

@@ -11,15 +11,15 @@ namespace Gym.Core.Services
     {
         List<Client> GetAll();
 
-        Client GetById(string id);
+        Client GetById(int id);
 
-        public void Post(string id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund);
+        public void Post(int id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund);
 
         //public void post( Client c);
 
-        public void Put(string id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund);
+        public void Put(int id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund);
 
-        public void Delete(string id);
+        public void Delete(int id);
 
 
     }

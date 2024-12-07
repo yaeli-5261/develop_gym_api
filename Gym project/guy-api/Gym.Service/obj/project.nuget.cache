@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3HCF5tCaZ3obgzp9g3XGTjE18d+Glyxid/dI//R4Q59Ws6CcoUsnWJWms9G0keE34szpli476HKF+rAqz0XMnQ==",
+  "dgSpecHash": "isaxEVpAJWo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Service\\Gym.Service.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Service\\Gym.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,8 +8,9 @@ C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.AssemblyInfoInputs.cache
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.AssemblyInfo.cs
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.csproj.CoreCompileInputs.cache
-C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.csproj.CopyComplete
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.dll
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\refint\Gym.Service.dll
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.pdb
 C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\ref\Gym.Service.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Service.sourcelink.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net6.0\Gym.Serv.BE06C1D9.Up2Date

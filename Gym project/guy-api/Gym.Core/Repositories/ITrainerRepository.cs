@@ -10,10 +10,10 @@ namespace Gym.Core.Repositories
     public interface ITrainerRepository
     {
         public List<Trainer> GetAll();
-        public Trainer GetById(string id);
-        public void Post(string id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness);
-        public void Put(string id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness);
-        public void PutActive(string id, bool isActiveTrainer);
-        public void Delete(string id);
+        public Trainer GetById(int id);
+        public void Post(int id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness);
+        public void Put(int id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness);
+        public void PutActive(int id, bool isActiveTrainer);
+        public void Delete(int id);
     }
 }

@@ -29,7 +29,7 @@ namespace guy_api.Controllers
         }
         //// GET api/<TrainerController>/5
         [HttpGet("{id}")]
-        public ActionResult Get(string id)
+        public ActionResult Get(int id)
         {
             return Ok(_trinerService.GetById(id));
         }
@@ -37,7 +37,7 @@ namespace guy_api.Controllers
         //// POST api/<TrainerController>
         [HttpPost]
 
-        public void Post(string id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness)
+        public void Post(int id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness)
         {
             _trinerService.Post(id, FirstName, LastName, Gender, Phon, Mail, TypeOfFitness);
         }
@@ -45,7 +45,7 @@ namespace guy_api.Controllers
         //// PUT api/<TrainerController>/5
 
         [HttpPut("{id}")]
-        public void Put(string id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness)
+        public void Put(int id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness)
         {
             _trinerService.Put(id, FirstName, LastName, Gender, Pel, Mail, TypeOfFitness);
          
@@ -53,14 +53,14 @@ namespace guy_api.Controllers
 
         [HttpPut("{id}/{isActiveTrainer}")]
 
-        public void Put(string id, bool isActiveTrainer)
+        public void Put(int id, bool isActiveTrainer)
         {
             _trinerService.PutActive(id,isActiveTrainer);
         }
 
         //// DELETE api/<TrainerController>/5
         [HttpDelete("{id}")]
-        public void Delete(string id)
+        public void Delete(int id)
         {
             _trinerService.Delete(id);
 

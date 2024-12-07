@@ -1,4 +1,7 @@
-﻿namespace Gym.Core.Entities
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Gym.Core.Entities
 {
 
     public enum Weekday
@@ -19,8 +22,10 @@
     public class Lesson
     {
 
-        private static int count = 0;
-        public int Code { get; }//primery key
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+        public int Id { get; set; }
         public EnumTypeOfFitness Type { get; set; } //type guy
         public string TrainerId { get; set; }
         public EnumGender Target_audience { get; set; }
@@ -30,9 +35,9 @@
         public TimeSpan End { get; set; }
         public EnumLevel EnumLevel { get; set; }
 
-        public Lesson(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public Lesson(int id,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            Code = ++count;
+            Id = id;
             Type = type;
             TrainerId = trainerId;
             Target_audience = target_audience;

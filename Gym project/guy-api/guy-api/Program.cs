@@ -30,8 +30,8 @@ builder.Services.AddScoped<ILessonRepository, LessonRepository>();
 
 
 //builder.Services.add<IDataContext,DataContext>();
-builder.Services.AddSingleton<DataContext>();
-
+builder.Services.AddDbContext<DataContext>();
+//builder.Services.AddSingleton<DataContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

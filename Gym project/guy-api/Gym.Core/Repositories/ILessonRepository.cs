@@ -15,10 +15,10 @@ namespace Gym.Core.Repositories
 
         public List<Lesson> Get(Weekday day, EnumTypeOfFitness typesOfFitness);
 
-        public void Post(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel);
+        public void Post(int id,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel);
 
-        public void Put(int code, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel);
-        public void Delete(int code);
+        public void Put(int id , EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel);
+        public void Delete(int id);
 
     }
 }

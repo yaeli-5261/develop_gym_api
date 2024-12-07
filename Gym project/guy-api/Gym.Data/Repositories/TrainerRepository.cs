@@ -17,9 +17,9 @@ namespace Gym.Data.Repositories
         }
         public List<Trainer> GetAll()
         {
-            return _context.ListTrainer;
+            return _context.ListTrainer.ToList()    ;
         }
-        public Trainer GetById(string id)
+        public Trainer GetById(int id)
         {
             foreach (var trainer in _context.ListTrainer)
             {
@@ -28,11 +28,11 @@ namespace Gym.Data.Repositories
             }
             return null;
         }
-        public void Post(string id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness)
+        public void Post(int id, string FirstName, string LastName, EnumGender Gender, String Phon, String Mail, EnumTypeOfFitness TypeOfFitness)
         {
             _context.ListTrainer.Add(new Trainer(id, FirstName, LastName, Gender, Phon, Mail, TypeOfFitness));
         }
-        public void Put(string id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness)
+        public void Put(int id, string FirstName, string LastName, EnumGender Gender, String Pel, String Mail, EnumTypeOfFitness TypeOfFitness)
         {
             Trainer trainer = _context.ListTrainer.SingleOrDefault(t => t.Id == id);
             if (trainer == null)
@@ -46,14 +46,14 @@ namespace Gym.Data.Repositories
                 trainer.TypeOfFitness = TypeOfFitness;
             }
         }
-        public void PutActive(string id, bool isActiveTrainer)
+        public void PutActive(int id, bool isActiveTrainer)
         {
             Trainer trainer = _context.ListTrainer.SingleOrDefault(t => t.Id == id);
             if (trainer!= null)
                  trainer.IsActiveTrainer = isActiveTrainer;
         }
         
-        public void Delete(string id)
+        public void Delete(int id)
         {
             _context.ListTrainer.Remove(_context.ListTrainer.SingleOrDefault(t => t.Id == id));
         }

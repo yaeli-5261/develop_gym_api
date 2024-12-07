@@ -29,14 +29,14 @@ namespace guy_api.Controllers
 
         //// GET api/<ClientController>/5
         [HttpGet("{id}")]
-        public ActionResult Get(string id)
+        public ActionResult Get(int id)
         {
             return Ok(_clientService.GetById(id));
         }
 
         //// POST api/<ClientController>
         [HttpPost]
-        public void Post(string id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
+        public void Post(int id, string firstName, string lastName, EnumGender gender, string pel, string mail, EnumhealthFund enumhealthFund)
         {
             _clientService.Post(id, firstName,  lastName, gender,  pel,  mail,  enumhealthFund);
             
@@ -49,14 +49,14 @@ namespace guy_api.Controllers
 
         //// PUT api/<ClientController>/5
         [HttpPut("{id}")]
-        public void Put(string id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund)
+        public void Put(int id, string firstName, string lastName, EnumGender gender, String Pel, String Mail, EnumhealthFund enumhealthFund)
         {
             _clientService.Put(id, firstName, lastName, gender, Pel, Mail, enumhealthFund);
         }
 
         // DELETE api/<ClientController>/5
         [HttpDelete("{id}")]
-        public void Delete(string id)
+        public void Delete(int id)
         {
             _clientService.Delete(id);
         }

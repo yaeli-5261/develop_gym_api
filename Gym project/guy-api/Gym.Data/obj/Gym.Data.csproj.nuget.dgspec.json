@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj": {}
+    "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj": {
+    "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj",
         "projectName": "Gym.Core",
-        "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +39,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,18 +66,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj": {
+    "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
         "projectName": "Gym.Data",
-        "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Data\\Gym.Data.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Data\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,7 +88,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -90,11 +96,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj": {
-                "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj"
+              "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\MyProjects\\net core\\GitHub__\\Gym project\\guy-api\\Gym.Core\\Gym.Core.csproj"
               }
             }
           }
@@ -103,11 +109,29 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -124,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

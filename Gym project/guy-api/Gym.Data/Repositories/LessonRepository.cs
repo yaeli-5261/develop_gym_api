@@ -17,7 +17,7 @@ namespace Gym.Data.Repositories
         }
         public List<Lesson> GetAll()
         {
-            return _context.ListLesson;
+            return _context.ListLesson.ToList();
         }
         public List<Lesson> GetByDay(Weekday day)
         {
@@ -28,13 +28,13 @@ namespace Gym.Data.Repositories
         {
             return _context.ListLesson.Where(l => l.Day == day && l.Type == typesOfFitness).ToList();
         }
-        public void Post(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Post(int id,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            _context.ListLesson.Add(new Lesson(type, trainerId, target_audience, day, start, during, enumLevel));
+            _context.ListLesson.Add(new Lesson(id,type, trainerId, target_audience, day, start, during, enumLevel));
         }
-        public void Put(int code, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Put(int id, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            Lesson l = _context.ListLesson.SingleOrDefault(l => l.Code == code);
+            Lesson l = _context.ListLesson.SingleOrDefault(l => l.Id == id);
             if (l != null)
             {
                 l.Type = type;
@@ -47,9 +47,9 @@ namespace Gym.Data.Repositories
             }
 
         }
-        public void Delete(int code)
+        public void Delete(int id)
         {
-            _context.ListLesson.Remove(_context.ListLesson.SingleOrDefault(l => l.Code == code));
+            _context.ListLesson.Remove(_context.ListLesson.SingleOrDefault(l => l.Id == id));
         }
 
     }

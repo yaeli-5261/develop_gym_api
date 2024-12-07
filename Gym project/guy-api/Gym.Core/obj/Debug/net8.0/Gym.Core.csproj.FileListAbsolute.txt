@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\bin\Debug\net8.0\Gym.Core.deps.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\bin\Debug\net8.0\Gym.Core.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\bin\Debug\net8.0\Gym.Core.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.sourcelink.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\refint\Gym.Core.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\Gym.Core.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Core\obj\Debug\net8.0\ref\Gym.Core.dll

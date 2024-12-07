@@ -1,0 +1,16 @@
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\bin\Debug\net8.0\Gym.Service.deps.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\bin\Debug\net8.0\Gym.Service.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\bin\Debug\net8.0\Gym.Service.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\bin\Debug\net8.0\Gym.Core.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\bin\Debug\net8.0\Gym.Core.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.sourcelink.json
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Serv.BE06C1D9.Up2Date
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\refint\Gym.Service.dll
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\Gym.Service.pdb
+C:\Users\user1\Documents\MyProjects\GitHub__\Gym project\guy-api\Gym.Service\obj\Debug\net8.0\ref\Gym.Service.dll

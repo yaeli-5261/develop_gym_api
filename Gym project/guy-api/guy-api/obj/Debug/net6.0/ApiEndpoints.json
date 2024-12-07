@@ -7,30 +7,50 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[guy_api.Entities.Client, guy-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.ClientController",
-    "Method": "post",
+    "Method": "Post",
     "RelativePath": "api/Client",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "c",
-        "Type": "guy_api.Entities.Client",
-        "IsRequired": true
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "firstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "lastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "gender",
+        "Type": "Gym.Core.Entities.EnumGender",
+        "IsRequired": false
+      },
+      {
+        "Name": "pel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enumhealthFund",
+        "Type": "Gym.Core.Entities.EnumhealthFund",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -55,17 +75,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "guy_api.Entities.Client",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.ClientController",
@@ -92,7 +102,7 @@
       },
       {
         "Name": "gender",
-        "Type": "guy_api.Entities.EnumGender",
+        "Type": "Gym.Core.Entities.EnumGender",
         "IsRequired": false
       },
       {
@@ -107,7 +117,7 @@
       },
       {
         "Name": "enumhealthFund",
-        "Type": "guy_api.Entities.EnumhealthFund",
+        "Type": "Gym.Core.Entities.EnumhealthFund",
         "IsRequired": false
       }
     ],
@@ -149,17 +159,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[guy_api.Entities.Lesson, guy-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.LessonController",
@@ -170,8 +170,13 @@
     "Order": 0,
     "Parameters": [
       {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "type",
-        "Type": "guy_api.Entities.EnumTypeOfFitness",
+        "Type": "Gym.Core.Entities.EnumTypeOfFitness",
         "IsRequired": false
       },
       {
@@ -181,12 +186,12 @@
       },
       {
         "Name": "target_audience",
-        "Type": "guy_api.Entities.EnumGender",
+        "Type": "Gym.Core.Entities.EnumGender",
         "IsRequired": false
       },
       {
         "Name": "day",
-        "Type": "guy_api.Entities.Weekday",
+        "Type": "Gym.Core.Entities.Weekday",
         "IsRequired": false
       },
       {
@@ -201,7 +206,7 @@
       },
       {
         "Name": "enumLevel",
-        "Type": "guy_api.Entities.EnumLevel",
+        "Type": "Gym.Core.Entities.EnumLevel",
         "IsRequired": false
       }
     ],
@@ -222,13 +227,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "code",
-        "Type": "System.Int32",
-        "IsRequired": true
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
       },
       {
         "Name": "type",
-        "Type": "guy_api.Entities.EnumTypeOfFitness",
+        "Type": "Gym.Core.Entities.EnumTypeOfFitness",
         "IsRequired": false
       },
       {
@@ -238,12 +243,12 @@
       },
       {
         "Name": "target_audience",
-        "Type": "guy_api.Entities.EnumGender",
+        "Type": "Gym.Core.Entities.EnumGender",
         "IsRequired": false
       },
       {
         "Name": "day",
-        "Type": "guy_api.Entities.Weekday",
+        "Type": "Gym.Core.Entities.Weekday",
         "IsRequired": false
       },
       {
@@ -258,8 +263,13 @@
       },
       {
         "Name": "enumLevel",
-        "Type": "guy_api.Entities.EnumLevel",
+        "Type": "Gym.Core.Entities.EnumLevel",
         "IsRequired": false
+      },
+      {
+        "Name": "code",
+        "Type": "",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -279,8 +289,13 @@
     "Order": 0,
     "Parameters": [
       {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "code",
-        "Type": "System.Int32",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -302,21 +317,11 @@
     "Parameters": [
       {
         "Name": "day",
-        "Type": "guy_api.Entities.Weekday",
+        "Type": "Gym.Core.Entities.Weekday",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[guy_api.Entities.Lesson, guy-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.LessonController",
@@ -328,26 +333,16 @@
     "Parameters": [
       {
         "Name": "day",
-        "Type": "guy_api.Entities.Weekday",
+        "Type": "Gym.Core.Entities.Weekday",
         "IsRequired": true
       },
       {
         "Name": "typesOfFitness",
-        "Type": "guy_api.Entities.EnumTypeOfFitness",
+        "Type": "Gym.Core.Entities.EnumTypeOfFitness",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[guy_api.Entities.Lesson, guy-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.TrainerController",
@@ -357,17 +352,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[guy_api.Entities.Trainer, guy-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.TrainerController",
@@ -394,7 +379,7 @@
       },
       {
         "Name": "Gender",
-        "Type": "guy_api.Entities.EnumGender",
+        "Type": "Gym.Core.Entities.EnumGender",
         "IsRequired": false
       },
       {
@@ -409,7 +394,7 @@
       },
       {
         "Name": "TypeOfFitness",
-        "Type": "guy_api.Entities.EnumTypeOfFitness",
+        "Type": "Gym.Core.Entities.EnumTypeOfFitness",
         "IsRequired": false
       }
     ],
@@ -435,17 +420,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "guy_api.Entities.Trainer",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "guy_api.Controllers.TrainerController",
@@ -472,7 +447,7 @@
       },
       {
         "Name": "Gender",
-        "Type": "guy_api.Entities.EnumGender",
+        "Type": "Gym.Core.Entities.EnumGender",
         "IsRequired": false
       },
       {
@@ -487,7 +462,7 @@
       },
       {
         "Name": "TypeOfFitness",
-        "Type": "guy_api.Entities.EnumTypeOfFitness",
+        "Type": "Gym.Core.Entities.EnumTypeOfFitness",
         "IsRequired": false
       }
     ],

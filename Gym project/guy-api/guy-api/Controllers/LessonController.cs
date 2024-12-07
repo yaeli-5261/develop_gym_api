@@ -40,24 +40,24 @@ namespace guy_api.Controllers
         }
         // POST api/<LessonController>
         [HttpPost]
-        public void Post(EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Post(int id,EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-            _lessonService.Post(type, trainerId, target_audience, day, start, during, enumLevel);
+            _lessonService.Post(id,type, trainerId, target_audience, day, start, during, enumLevel);
         }
 
         //// PUT api/<LessonController>/5
         [HttpPut("{code}")]
-        public void Put(int code, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
+        public void Put(int id, EnumTypeOfFitness type, string trainerId, EnumGender target_audience, Weekday day, TimeSpan start, int during, EnumLevel enumLevel)
         {
-             _lessonService.Put( code,  type,  trainerId,  target_audience,  day,  start,  during,  enumLevel);
+             _lessonService.Put( id,  type,  trainerId,  target_audience,  day,  start,  during,  enumLevel);
            
         }
 
         //// DELETE api/<LessonController>/5
         [HttpDelete("{code}")]
-        public void Delete(int code)
+        public void Delete(int id)
         {
-            _lessonService.Delete(code);
+            _lessonService.Delete(id);
         }
     }
 }
